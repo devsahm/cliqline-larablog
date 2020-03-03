@@ -5,7 +5,7 @@
 <div class="col-lg-12">
 <div class="header-top-item d-flex justify-content-between">
 <div class="header-left-side">
-<p><i class="fal fa-bells"></i> Are you looking for it services & solution provider?</p>
+<p><i class="fal fa-bells"></i> Are you looking for IT services & solution provider?</p>
 </div>
 <div class="header-right-social d-flex justify-content-end align-items-center">
 <ul class="d-none d-lg-block">
@@ -17,10 +17,10 @@
 </li>
 </ul>
 <ul class="d-none d-sm-block">
-<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-<li><a href="#"><i class="fab fa-google"></i></a></li>
+<li><a href="https://www.facebook.com/CliqlineSolutions/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://twitter.com/cliqline" target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/cliqlinesolutions" target="_blank"><i class="fab fa-instagram"></i></a></li>
+
 </ul>
 </div>
 </div> 
@@ -47,21 +47,21 @@
 
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/about">about </a>
+<a class="nav-link" href="#">about </a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="#">Porfolio</a>
 
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/blog">Blog</i></a>
+<a class="nav-link" href="#">Blog</i></a>
 </li>
 
-<li class="nav-item">
+<!-- <li class="nav-item">
 <a class="nav-link" href="#">Shop(Coming Soon)</i></a>
-</li>
+</li> -->
 <li class="nav-item">
-<a class="nav-link" href="/contact">Contact</a>
+<a class="nav-link" href="#">Contact</a>
 </li>
 </ul>
 </div> 

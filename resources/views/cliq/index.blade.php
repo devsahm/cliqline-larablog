@@ -87,7 +87,7 @@
 <div class="col-lg-6">
 <div class="about-content">
 <h3 class="title">Perfect Solution Makes <span>A Successful <span>History</span></span></h3>
-<span>Something knows About Our Company</span>
+<span>Something you need to know About Our Company</span>
 <p>With over 4 years of IT and business Solution expertise, our goal is to help you grow your business through authentic products, managed services and scalable solutions. Our aim is to provide solutions that are complete, comprehensive and sterling to our clients. Cliqline Solutions expertise cut across Banking, Insurance, Healthcare, Telecommunication, Government Parastatals and Private Industries.  Working in conjunction with our clients, we create and implement result-oriented personalized solutions.</p>
 <ul>
 <li><a class="main-btn " href="/about">Learn More</a></li>
@@ -106,36 +106,36 @@
 <div class="col-lg-6">
 <div class="section-title section-title-2  text-center">
 <h2 class="title">We Offer IT Solutions <span>Safe And <span>Sustainable</span></span></h2>
-<p>Something knows About Our Features</p>
+
 </div>
 </div>
 </div>
 <div class="row justify-content-center">
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="features-item text-center white-bg mt-30 wow fadeIn animated" data-wow-duration="2000ms" data-wow-delay="0ms">
-<i class="fal fa-lock-open-alt"></i>
-<h4 class="title">Website Development</h4>
+<i class="fal fa-desktop"></i>
+<h4 class="title">Website Design and Development</h4>
 <a href="H">Read More <i class="fal fa-long-arrow-right"></i></a>
 </div>
 </div>
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="features-item text-center white-bg mt-30 item-2 wow fadeIn animated" data-wow-duration="2000ms" data-wow-delay="300ms">
 <i class="fal fa-layer-plus"></i>
-<h4 class="title">UX/UI Design </h4>
+<h4 class="title">UX/UI <br>Design </h4>
 <a href="#">Read More <i class="fal fa-long-arrow-right"></i></a>
 </div>
 </div>
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="features-item text-center white-bg mt-30 item-3 wow fadeIn animated" data-wow-duration="2000ms" data-wow-delay="600ms">
-<i class="fal fa-globe-stand"></i>
-<h4 class="title"> Mobile App Devevlopment</h4>
+<i class="fal fa-mobile"></i>
+<h4 class="title"> Mobile App Development</h4>
 <a href="#">Read More <i class="fal fa-long-arrow-right"></i></a>
 </div>
 </div>
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="features-item text-center white-bg mt-30 item-4 wow fadeIn animated" data-wow-duration="2000ms" data-wow-delay="900ms">
-<i class="fal fa-fingerprint"></i>
-<h4 class="title">Product Design</h4>
+<i class="fal fa-bezier-curve"></i>
+<h4 class="title">Business Branding & Product Design</h4>
 <a href="#">Read More <i class="fal fa-long-arrow-right"></i></a>
 </div>
 </div>
@@ -144,7 +144,7 @@
 </section>
 
 
-<section class="project-case-area project-home pt-100">
+<!-- <section class="project-case-area project-home pt-100">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-6">
@@ -202,7 +202,7 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
 <section class="fact-area pt-80 pb-130">
@@ -210,25 +210,25 @@
 <div class="row">
 <div class="col-lg-3 col-sm-6">
 <div class="fact-item mt-30">
-<h3 class="title"><span class="counter">85</span> %</h3>
-<span>Globaly Overviews</span>
+<h3 class="title"><span class="counter">96</span> %</h3>
+<span>Speed and Accuracy</span>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6">
 <div class="fact-item mt-30">
 <h3 class="title"><span class="counter">95</span> %</h3>
-<span>Globaly Overviews</span>
+<span>Productivity</span>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6">
 <div class="fact-item mt-30">
-<h3 class="title"><span class="counter">69</span> %</h3>
-<span>Globaly Overviews</span>
+<h3 class="title"><span class="counter">97</span> %</h3>
+<span>Web App Performance</span>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6">
 <div class="fact-item mt-30">
-<h3 class="title"><span class="counter">87</span> %</h3>
+<h3 class="title"><span class="counter">93</span> %</h3>
 <span>Globaly Overviews</span>
 </div>
 </div>
@@ -237,13 +237,13 @@
 </section>
 
 
-<section class="team-area pt-130 pb-130">
+<!-- <section class="team-area pt-130 pb-130">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-5">
 <div class="team-title">
-<h3 class="title">Expert Team <br> <span>Meet <span>Our Expert’s</span></span></h3>
-<span>Something knows About Team</span>
+<h3 class="title">Expert Team <br> <span>Meet <span>Our Experts</span></span></h3>
+<span>Know Our Team</span>
 </div>
 </div>
 <div class="col-lg-7">
@@ -259,7 +259,7 @@
 <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
 </ul>
-<h5 class="title">Rufus A. Morales</h5>
+<h5 class="title">Obina </h5>
 <span>Product Designer</span>
 </div>
 </div>
@@ -267,7 +267,7 @@
 </div>
 <div class="col-lg-6">
 <div class="team-item">
-<img src="/asset/images/team-2.jpg" alt="team">
+<img src="/asset/images/team-1.jpg" alt="team">
 <div class="team-overlay">
 <div class="team-contet text-center">
 <ul>
@@ -276,8 +276,8 @@
 <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
 </ul>
-<h5 class="title">Rufus A. Morales</h5>
-<span>Product Designer</span>
+<h5 class="title">Fagbenro Damilare</h5>
+<span>Software Developer</span>
 </div>
 </div>
 </div>
@@ -303,7 +303,7 @@
 </div>
 </div>
 </div>
-</section>
+</section> -->
 
 
 <section class="working-process">
@@ -311,8 +311,8 @@
 <div class="row justify-content-center">
 <div class="col-lg-6">
 <div class="section-title text-center">
-<h2 class="title">How We Works <span>Working <span>Process</span></span></h2>
-<p>4 Steps Are Follows We Works</p>
+<h2 class="title">How We Work<span>Working <span>Process</span></span></h2>
+<p>4 Steps We Follow</p>
 </div>
 </div>
 </div>
@@ -321,7 +321,8 @@
 <div class="working-item text-center item-1">
 <i class="fal fa-head-side-brain"></i>
 <h5 class="title">Idea Generator</h5>
-<p>Avoids pleasure itself, because it is pleasure but because those</p>
+<p>We generate ideas by innovating the concept, developing the process, and bringing the concept to reality
+</p>
 <div class="dot-1">
 <img src="/asset/images/working-dot-1.png" alt="working">
 </div>
@@ -330,8 +331,8 @@
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="working-item text-center item-2">
 <i class="fal fa-layer-group"></i>
-<h5 class="title">Info Collect</h5>
-<p>Avoids pleasure itself, because it is pleasure but because those</p>
+<h5 class="title">Info Collection</h5>
+<p>We collect every information that is required for the project </p>
 <div class="dot-2">
 <img src="/asset/images/working-dot-2.png" alt="working">
 </div>
@@ -340,15 +341,15 @@
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="working-item text-center item-3">
 <i class="fal fa-unicorn"></i>
-<h5 class="title">Product Desing</h5>
-<p>Avoids pleasure itself, because it is pleasure but because those</p>
+<h5 class="title">Product Design</h5>
+<p>Our team of experts create  a product design</p>
 </div>
 </div>
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="working-item text-center item-4">
 <i class="fal fa-upload"></i>
-<h5 class="title">Launch Project</h5>
-<p>Avoids pleasure itself, because it is pleasure but because those</p>
+<h5 class="title"> Project Launch</h5>
+<p>The project is deployed and ready for usage</p>
 <div class="dot-3">
 <img src="/asset/images/working-dot-1.png" alt="working">
 </div>
@@ -363,7 +364,7 @@
 </section>
 
 
-<section class="quote-area pt-130 pb-130">
+<!-- <section class="quote-area pt-130 pb-130">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-7">
@@ -399,23 +400,23 @@
 </div>
 </div>
 </section>
-
+ -->
 
 <section class="testimonial-area">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-6">
 <div class="section-title text-center">
-<h2 class="title">How We Works <span>Working <span>Process</span></span></h2>
-<p>knows About Our Customer Say</p>
+<h2 class="title">How We Work <span>Working <span>Process</span></span></h2>
+<p>Get to know our Customers Feedback</p>
 </div>
 </div>
 </div>
 <div class="row testinonials-active">
 <div class="col-lg-4">
 <div class="testimonial-item white-bg text-center mt-70">
-<img src="/asset/images/testimonial-1.jpg" alt="testimonial">
-<div class="star d-flex justify-content-center">
+<!-- <img src="/asset/images/testimonial-1.jpg" alt="testimonial"> -->
+<!-- <div class="star d-flex justify-content-center">
 <span>(</span>
 <ul>
 <li><i class="fas fa-star"></i></li>
@@ -425,16 +426,16 @@
 <li><i class="fas fa-star"></i></li>
 </ul>
 <span>)</span>
-</div>
-<p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness one rejects,</p>
-<h6 class="title">Malissa R. Dallas</h6>
+</div> -->
+<p>Cliqline Solutions did a great job for me. The end product far exceeded my expectations. I won't hesitate to use them again and encouraged everyone try them out</p>
+<h6 class="title">Ozurumba Dennis</h6>
 <i class="fal fa-quote-right"></i>
 </div>
 </div>
 <div class="col-lg-4">
 <div class="testimonial-item white-bg text-center mt-70">
-<img src="/asset/images/testimonial-2.jpg" alt="testimonial">
-<div class="star d-flex justify-content-center">
+<!-- <img src="/asset/images/testimonial-2.jpg" alt="testimonial"> -->
+<!-- <div class="star d-flex justify-content-center">
 <span>(</span>
 <ul>
 <li><i class="fas fa-star"></i></li>
@@ -444,16 +445,19 @@
 <li><i class="fas fa-star"></i></li>
 </ul>
 <span>)</span>
-</div>
-<p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness one rejects,</p>
-<h6 class="title">Malissa R. Dallas</h6>
+</div> -->
+
+<p>Working with Cliqline Solutions has been a great experience for the Gidi Games organisation. They has provided us with great designs and graphics for our Gidi Words game, Gidi Quest Game and African Legend Cards. They have always delivered on time, and we truly appreciate their professionalism. I would recommend them for work with other organisations looking to get quality services delivered at agreed time.</p>
+<h6 class="title">Olushola Bamboo</h6>
 <i class="fal fa-quote-right"></i>
 </div>
 </div>
+
+
 <div class="col-lg-4">
 <div class="testimonial-item white-bg text-center mt-70">
-<img src="/asset/images/testimonial-3.jpg" alt="testimonial">
-<div class="star d-flex justify-content-center">
+<!-- <img src="/asset/images/testimonial-5.jpg" alt="testimonial"> -->
+<!-- <div class="star d-flex justify-content-center">
 <span>(</span>
 <ul>
 <li><i class="fas fa-star"></i></li>
@@ -463,47 +467,9 @@
 <li><i class="fas fa-star"></i></li>
 </ul>
 <span>)</span>
-</div>
-<p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness one rejects,</p>
-<h6 class="title">Malissa R. Dallas</h6>
-<i class="fal fa-quote-right"></i>
-</div>
-</div>
-<div class="col-lg-4">
-<div class="testimonial-item white-bg text-center mt-70">
-<img src="/asset/images/testimonial-4.jpg" alt="testimonial">
-<div class="star d-flex justify-content-center">
-<span>(</span>
-<ul>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-</ul>
-<span>)</span>
-</div>
-<p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness one rejects,</p>
-<h6 class="title">Malissa R. Dallas</h6>
-<i class="fal fa-quote-right"></i>
-</div>
-</div>
-<div class="col-lg-4">
-<div class="testimonial-item white-bg text-center mt-70">
-<img src="/asset/images/testimonial-5.jpg" alt="testimonial">
-<div class="star d-flex justify-content-center">
-<span>(</span>
-<ul>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-</ul>
-<span>)</span>
-</div>
-<p>Will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness one rejects,</p>
-<h6 class="title">Malissa R. Dallas</h6>
+</div> -->
+<p>Working with Cliqline Solutions has brought my company to lime light. The web application deployed for me was fully functional and attractive. I will definately use them again </p>
+<h6 class="title">Babatunde Oluwaseun</h6>
 <i class="fal fa-quote-right"></i>
 </div>
 </div>
@@ -518,11 +484,11 @@
 <div class="col-lg-6">
 <div class="section-title text-center">
 <h2 class="title">Latest Post <span>Popular <span> News & Blog</span></span></h2>
-<p>knows About Latest News & Blog</p>
+
 </div>
 </div>
 </div>
-<div class="row justify-content-center">
+<!-- <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6 col-sm-8">
 <div class="blog-item mt-30 wow fadeIn animated" data-wow-duration="1500ms" data-wow-delay="0ms">
 <div class="blog-thumb">
@@ -572,6 +538,9 @@
 </div>
 </div>
 </div>
+</div> -->
+<div class="col-md-12">
+	<p class="alert alert-info">Blogs are currently not available</p>
 </div>
 </div>
 </section>
@@ -622,7 +591,7 @@
 </div>
 <div class="col-lg-2">
 <div class="brand-item text-center">
-<img src="/asset/images/barand-2.png" alt="">
+<img src="/asset/images/barand-7.png" alt="">
 </div>
 </div>
 <div class="col-lg-2">

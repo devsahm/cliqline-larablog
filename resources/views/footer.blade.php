@@ -14,12 +14,11 @@
 <h4 class="title">About Company</h4>
 </div>
 <div class="footer-items-1">
-<p>Avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again</p>
+<p>We are a team of dreamers and doers united by a simple idea. We provide cutting edge IT solutions for start-ups and top-tier brands. Our services includes mobile application (android and IOS), website design and development, product design, UI/UX, Graphics design and business branding.</p>
 <ul>
-<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-<li><a href="#"><i class="fab fa-google"></i></a></li>
+<li><a href="https://www.facebook.com/CliqlineSolutions/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+<li><a href="https://twitter.com/cliqline" target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/cliqlinesolutions" target="_blank"><i class="fab fa-instagram"></i></a></li>
 </ul>
 </div>
 </div>
@@ -50,10 +49,12 @@
 </div>
 <div class="col-lg-4 col-md-6 col-sm-8">
 <div class="footer-widget ml-10 mt-30">
+
 <div class="footer-title">
 <h4 class="title">Recent News</h4>
 </div>
-<div class="footer-items-3">
+<p class="alert alert-info">Blogs are currently not available</p>
+<!-- <div class="footer-items-3">
 <div class="News-item d-flex">
 <div class="News-thumb">
 <img src="/asset/images/footer-news-1.jpg" alt="">
@@ -72,14 +73,14 @@
 <span>05 Nov 19 </span>
 </div>
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </div>
 <div class="row">
 <div class="col-lg-12">
 <div class="footer-copyright">
-<span><i class="fal fa-phone-office"></i> + 234 803 152 7174</span>
+<span><i class="fal fa-phone-office"></i> + 234 905 697 8804</span>
 <p>Copyright ©{{now()->year}}. All Rights Reserved</p>
 </div>
 <div class="back-top">
