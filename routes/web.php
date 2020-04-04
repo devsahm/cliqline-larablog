@@ -19,3 +19,4 @@ Route::get('/about', 'PagesController@aboutus');
 Route::get('/blog', 'PagesController@newsblog');
 Route::get('/blog/details', 'PagesController@details');
 Route::get('/contact', 'PagesController@contact');
+Route::post('/clientsmail','PagesController@clientEmail');

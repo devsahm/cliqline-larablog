@@ -364,7 +364,7 @@
 </section>
 
 
-<!-- <section class="quote-area pt-130 pb-130">
+<section class="quote-area pt-130 pb-130">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-7">
@@ -374,21 +374,30 @@
 </div>
 <div class="col-lg-5">
 <div class="quote-content">
-<h3 class="title">Get A Quote <br> <span>Free <span>Consultations</span></span></h3>
-<form action="#">
+<h3 class="title">Get A Quote <br> <span>Leave a <span>Message</span></span></h3>
+
+<!-- If there are errors -->
+@include('error')
+ <!-- if the request was successful -->
+@if(session('success'))
+<p class="alert alert-success"> {{ session('success') }}</p>
+@endif
+
+<form action="/clientsmail" method="post">
+	@csrf
 <div class="input-box mt-25">
 <label for="#">Full Name Here</label>
-<input type="text" placeholder="Omar D. Kuebler">
+<input type="text" name="name" value="{{old('name')}}" placeholder="Full Name">
 <i class="fal fa-user"></i>
 </div>
 <div class="input-box mt-25">
-<label for="#">I Would Like To Discuss</label>
-<input type="text" placeholder="I’m Talking About">
+<label for="#">Your Email</label>
+<input type="email" name="email" value="{{old('email')}}" placeholder="Enter your email">
 <i class="fal fa-file"></i>
 </div>
 <div class="input-box mt-25">
 <label for="#">Leave A Message</label>
-<textarea name="#" id="#" cols="30" rows="10" placeholder="Write Message"></textarea>
+<textarea name="message" id="#" cols="30" rows="10" placeholder="Write Message">{{old('message')}}</textarea>
 <i class="fal fa-pen-alt"></i>
 </div>
 <div class="submit-btn text-right mt-20">
@@ -400,7 +409,7 @@
 </div>
 </div>
 </section>
- -->
+
 
 <section class="testimonial-area">
 <div class="container">
