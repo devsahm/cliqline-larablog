@@ -443,21 +443,16 @@
 </div>
 <div class="col-lg-4">
 <div class="testimonial-item white-bg text-center mt-70">
-<!-- <img src="/asset/images/testimonial-2.jpg" alt="testimonial"> -->
-<!-- <div class="star d-flex justify-content-center">
-<span>(</span>
-<ul>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-<li><i class="fas fa-star"></i></li>
-</ul>
-<span>)</span>
-</div> -->
-
 <p>Working with Cliqline Solutions has been a great experience for the Gidi Games organisation. They has provided us with great designs and graphics for our Gidi Words game, Gidi Quest Game and African Legend Cards. They have always delivered on time, and we truly appreciate their professionalism. I would recommend them for work with other organisations looking to get quality services delivered at agreed time.</p>
 <h6 class="title">Olushola Bamboo</h6>
+<i class="fal fa-quote-right"></i>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="testimonial-item white-bg text-center mt-70">
+<p>Cliqline Solutions were tasked to build a web app that works as investment app, they were given a deadline which they worked towards, and also their delivery was exceptional. Sound dev relationship with their team members and project manager. Also they write clean codes with clearly stated functions and variable names. It was no stress for me to read their code. All in all they performed excellently well.</p>
+<h6 class="title">Okekunle Oluwatobiloba</h6>
 <i class="fal fa-quote-right"></i>
 </div>
 </div>
