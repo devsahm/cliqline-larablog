@@ -6,8 +6,10 @@
 
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="description" content="">
+<meta name="description" content="We are software development company and business Solution expertise, our goal is to help you grow your business through authentic products, managed services and scalable solutions. Our aim is to provide solutions that are complete, comprehensive and sterling to our clients. Cliqline Solutions expertise cut across Banking, Insurance, Healthcare, Telecommunication, Government Parastatals and Private Industries. Working in conjunction with our clients, we create and implement result-oriented personalized solutions">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="" content="cliqline solutions, software development, IT, Ibadan, Oyo State, UI, university of ibadan, mobile App, web application, website, uiux, graphics design ">
+<meta name="theme-color" content="#0154f7" />
 
 <title>cliqline Solutions</title>
 
@@ -76,7 +78,7 @@
 </section>
 
 
-<section class="about-area pt-130 pb-130">
+<section class="about-area pt-130 pb-130" id="about">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-6">
@@ -135,7 +137,7 @@
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="features-item text-center white-bg mt-30 item-4 wow fadeIn animated" data-wow-duration="2000ms" data-wow-delay="900ms">
 <i class="fal fa-bezier-curve"></i>
-<h4 class="title">Business Branding & Product Design</h4>
+<h4 class="title">Business Branding & Graphic Design</h4>
 <a href="#">Read More <i class="fal fa-long-arrow-right"></i></a>
 </div>
 </div>
@@ -341,15 +343,15 @@
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="working-item text-center item-3">
 <i class="fal fa-unicorn"></i>
-<h5 class="title">Product Design</h5>
-<p>Our team of experts create  a product design</p>
+<h5 class="title">Project Design</h5>
+<p>Our team of experts draw out the project design. This helps to develop one or more designs which can be used to achieve the desired project goals.</p>
 </div>
 </div>
 <div class="col-lg-3 col-md-6 col-sm-7">
 <div class="working-item text-center item-4">
 <i class="fal fa-upload"></i>
 <h5 class="title"> Project Launch</h5>
-<p>The project is deployed and ready for usage</p>
+<p>The project is deployed and ready for use</p>
 <div class="dot-3">
 <img src="/asset/images/working-dot-1.png" alt="working">
 </div>
@@ -364,7 +366,11 @@
 </section>
 
 
-<section class="quote-area pt-130 pb-130">
+
+
+
+
+<section class="quote-area pt-130 pb-130" id="contact">
 <div class="container">
 <div class="row align-items-center">
 <div class="col-lg-7">
@@ -443,16 +449,21 @@
 </div>
 <div class="col-lg-4">
 <div class="testimonial-item white-bg text-center mt-70">
+<!-- <img src="/asset/images/testimonial-2.jpg" alt="testimonial"> -->
+<!-- <div class="star d-flex justify-content-center">
+<span>(</span>
+<ul>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+<li><i class="fas fa-star"></i></li>
+</ul>
+<span>)</span>
+</div> -->
+
 <p>Working with Cliqline Solutions has been a great experience for the Gidi Games organisation. They has provided us with great designs and graphics for our Gidi Words game, Gidi Quest Game and African Legend Cards. They have always delivered on time, and we truly appreciate their professionalism. I would recommend them for work with other organisations looking to get quality services delivered at agreed time.</p>
 <h6 class="title">Olushola Bamboo</h6>
-<i class="fal fa-quote-right"></i>
-</div>
-</div>
-
-<div class="col-lg-4">
-<div class="testimonial-item white-bg text-center mt-70">
-<p>Cliqline Solutions were tasked to build a web app that works as investment app, they were given a deadline which they worked towards, and also their delivery was exceptional. Sound dev relationship with their team members and project manager. Also they write clean codes with clearly stated functions and variable names. It was no stress for me to read their code. All in all they performed excellently well.</p>
-<h6 class="title">Okekunle Oluwatobiloba</h6>
 <i class="fal fa-quote-right"></i>
 </div>
 </div>
@@ -477,12 +488,30 @@
 <i class="fal fa-quote-right"></i>
 </div>
 </div>
+
+<div class="col-lg-4">
+<div class="testimonial-item white-bg text-center mt-70">
+<p>Cliqline Solutions were tasked to build a web app that works as investment app(KKoBit), they were given a deadline which they were ontime with their delivery. Sound Dev relationship with their team members and project manager. Also they wrote clean code with clearly stated functions and variable names. It was no stress for me to read their code. All in all they performed excellently well.</p>
+<h6 class="title">Okekunle Oluwatobiloba</h6>
+<i class="fal fa-quote-right"></i>
+</div>
+</div>
+
+<div class="col-lg-4">
+<div class="testimonial-item white-bg text-center mt-70">
+<p>Cliqlinesolutions are very good with web development.
+They did a very wonderful job, exactly as specified and timely too. They are now on my speed-dial on anything as regards web design and development.</p>
+<h6 class="title">Dracco Limited</h6>
+<i class="fal fa-quote-right"></i>
+</div>
+</div>
+
 </div>
 </div>
 </section>
 
 
-<section class="blog-area">
+<section class="blog-area" id="blog">
 <div class="container">
 <div class="row justify-content-center">
 <div class="col-lg-6">
